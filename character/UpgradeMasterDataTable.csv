@@ -1,0 +1,11 @@
+Level,Rank,RequiredStaticItemId,RequiredItemNum,ResetRequiredMoney
+1,1,PalUpgradeStone,1,1000
+2,2,PalUpgradeStone,2,3000
+3,3,PalUpgradeStone,3,6000
+4,4,PalUpgradeStone,4,10000
+5,5,PalUpgradeStone2,1,15000
+6,6,PalUpgradeStone2,2,21000
+7,7,PalUpgradeStone2,3,28000
+8,8,PalUpgradeStone3,1,36000
+9,9,PalUpgradeStone3,2,45000
+10,10,PalUpgradeStone3,3,55000
